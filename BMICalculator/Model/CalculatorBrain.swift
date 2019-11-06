@@ -36,5 +36,4 @@ struct CalculatorBrain {
     func getAdvice() -> String {
         return bmi?.advice ?? "No advice"
     }
-    
 }
